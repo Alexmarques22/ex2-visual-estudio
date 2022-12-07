@@ -1,0 +1,11 @@
+C:\Users\alex.msantos22\source\repos\ex22\ex22\bin\Debug\ex22.exe.config
+C:\Users\alex.msantos22\source\repos\ex22\ex22\bin\Debug\ex22.exe
+C:\Users\alex.msantos22\source\repos\ex22\ex22\bin\Debug\ex22.pdb
+C:\Users\alex.msantos22\source\repos\ex22\ex22\obj\Debug\ex22.csproj.AssemblyReference.cache
+C:\Users\alex.msantos22\source\repos\ex22\ex22\obj\Debug\ex22.csproj.SuggestedBindingRedirects.cache
+C:\Users\alex.msantos22\source\repos\ex22\ex22\obj\Debug\ex22.Form1.resources
+C:\Users\alex.msantos22\source\repos\ex22\ex22\obj\Debug\ex22.Properties.Resources.resources
+C:\Users\alex.msantos22\source\repos\ex22\ex22\obj\Debug\ex22.csproj.GenerateResource.cache
+C:\Users\alex.msantos22\source\repos\ex22\ex22\obj\Debug\ex22.csproj.CoreCompileInputs.cache
+C:\Users\alex.msantos22\source\repos\ex22\ex22\obj\Debug\ex22.exe
+C:\Users\alex.msantos22\source\repos\ex22\ex22\obj\Debug\ex22.pdb
